@@ -1,130 +1,59 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+👨‍💼 Amner Pérez 🔐 Gestor de Sistemas | Operador IT | Analista de Ciberseguridad
 
-<h3 align="center">
-  Hi, Amner Pérez
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+📚 Sobre mí Profesional enfocado en la gestión de sistemas, soporte técnico y seguridad informática. Con experiencia en operaciones IT, ciberseguridad y administración de infraestructuras. Comprometido con la excelencia en el servicio técnico y la implementación de soluciones seguras en entornos empresariales.
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
+🧠 Áreas de especialización
 
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
+Operaciones IT & Soporte Técnico Ciberseguridad & Monitoreo de Sistemas Administración de Infraestructura Sistemas Empresariales (SAP, AS/400) Auditoría & Control Interno
 
----
+🛠 Tech Stack
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into [Machine Learning](https://www.coursera.org/browse/data-science/machine-learning) and [AI](https://www.deeplearning.ai/)
+💻 Plataformas & Sistemas
+📊 Business Intelligence & Análisis
+🔐 Seguridad Informática
+🧰 Herramientas & Tecnologías
+💼 Experiencia Laboral 🔐 Operador IT Vivibanco, S.A. | Septiembre 2025 - Marzo 2026
 
-## 🛠 &nbsp;Tech Stack
+Servicios de operación IT para infraestructura bancaria Análisis de ciberseguridad y monitoreo de sistemas Operación y mantenimiento de plataformas AS/400 Gestión de incidentes de seguridad
 
-#### 🔧 Languages
+🖥️ Técnico Informático en Sistemas Infinito Tecnología Integral S.A. | Enero 2025 - Junio 2025
 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+Soporte técnico para IGSS Z6 Mantenimiento preventivo y correctivo de equipos de cómputo Gestión de incidencias técnicas
 
-#### 🖥️ Frameworks
+📋 Auditor Junior Construmart San José S.A. | Agosto 2024 - Diciembre 2024
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+Servicios de auditoría general de sistemas Inventarios selectivos, cíclicos y generales Gestión de CRM SAP Business One Control interno y verificación de procesos
 
-#### 📚 Libraries
+📦 Auxiliar de Bodega Cargo Expreso S.A. | Octubre 2023 - Julio 2024
 
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+Servicios de carga y descarga de paquetería Clasificación y gestión de inventarios Reporte de inventarios en Power BI
 
-#### 🔧 Tools
+📊 Oficinista Digitador Verificador Tribunal Supremo Electoral | Mayo - Agosto 2023
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+Servicios de digitalización y procesamiento de datos Verificación y control de calidad de información
 
-## 📊 Profile Statistics
+🎓 Formación Académica 📚 Estudios Universitarios
 
- <div align=center>
+7mo. Semestre en Administración de Empresas | Universidad de San Carlos de Guatemala (2021) 5to. Semestre en Ingeniería en Sistemas | Universidad Mariano Gálvez (2025) Bachiller en Ciencias y Letras
 
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+🏆 Certificaciones & Diplomas 2025
 
-</div>
- 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
-  
- </div>
- 
- ### ⏱ Streak Stats
- 
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdalrahman-Alhamod&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+Diploma ESET Protect Cloud | ESET Latinoamérica Diploma Gestión y Respuesta a Incidentes | ESET Latinoamérica
 
- </div>
- 
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+2022
 
-### 📊 Most Used Language
+Diploma Solicitud de Agencia Virtual | SAT (Superintendencia de Administración Tributaria) Diploma Excel Básico 2016 | INTECAP Curso Programación Básica | Platzi Colombia Diploma Líder de Transformación | Fundación John C. Maxwell
 
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
- 
- ### 🏆 Profile Trophies
+2021
 
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdalrahman-Alhamod&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
+Diploma Ciberseguridad en Guatemala: Peligros y Delitos | Universidad de San Carlos Diploma Curso de Finanzas Personales | Universidad de San Carlos Diploma Liderazgo: Una Estrategia Para El Éxito | Universidad de San Carlos
 
----
+🎯 Objetivo Profesional Desarrollar una carrera sólida en gestión de sistemas e infraestructura IT, enfocándome en seguridad informática y soluciones empresariales que agreguen valor a las organizaciones. Comprometido con la excelencia técnica, la capacitación continua y la implementación de buenas prácticas en ciberseguridad.
 
-### 🔗 &nbsp;Contact Me
+📫 Contacto 📧 Email: amnerpr@gmail.com 📱 Teléfono: 3616-9335 📍 Ubicación: Barrio El Centro, Cuilapa
 
-<div align="center">
-<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Abd_Alrhman_Alhamod"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-</div>
+📋 Información General
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
+Nombre Completo: Amner Estuardo Pérez Ramírez Fecha de Nacimiento: 05 de diciembre de 1995 (30 años) DPI: 2920 60548 0613 NIT: 91052211 Estado: Estudiante activo de Ingeniería en Sistemas
 
----
-
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
+⭐ Perfil enfocado en excelencia técnica, seguridad informática y desarrollo profesional en tecnología
